@@ -36,6 +36,9 @@ Las páginas se han estructurado en 2 archivos:
 - Nprogress (para la barra de progreso)
 - Vite (para la compilación de la aplicación)
 
+## Aditional 
+- Los estilos cambian de acuerdo al tema (Nocturno o Claro) del sistema operativo
+
 ## Instalación
 Yarn
 ```bash
