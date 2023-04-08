@@ -99,7 +99,7 @@ function App() {
             </div>
               <div className="p-3">
                   <a href="#">
-                    <h5 className="flex items-center align-middle justify-center mb-2 h-[80px] text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{ product.title }</h5>
+                    <h5 className="flex items-center align-middle justify-center mb-2 h-[100px] text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{ product.title }</h5>
               </a>
               <div className="px-6 pt-4 pb-2">
                 <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#{ product.category }</span>
